@@ -631,7 +631,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    Server and ESP32-camera components of the MyHomeApp project
+    Server and ESP32-CAM components of the MyHomeApp project
     Copyright (C) 2024  Nikolay Fedorov
 
     This program is free software: you can redistribute it and/or modify
